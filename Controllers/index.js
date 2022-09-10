@@ -1,0 +1,22 @@
+module.exports = {
+  AdminController: require("./AdminController"),
+  UserController: require("./UserController"),
+  CategoryController: require("./CategoryController"),
+  SubCategoryController: require("./SubCategoryController"),
+  VendorController: require("./VendorController"),
+  ProductController: require("./ProductController"),
+  CartController: require("./CartController"),
+  BrandController: require("./BrandController"),
+  OrderController: require("./OrderController"),
+  WishlistController: require("./WishlistController"),
+  AnnouncementController: require("./AnnouncementController"),
+  CustomerController: require("./CustomerController"),
+  OfferController: require("./OfferController"),
+  ReviewController: require("./ReviewController"),
+  FaqController: require("./FaqController"),
+  BlogController: require("./BlogController"),
+  TermsAndConditionController: require("./TermsAndConditionController"),
+  AboutUsController: require("./AboutUsController"),
+  CareerController: require("./CareerController"),
+  BannerController: require("./BannerController")
+};
